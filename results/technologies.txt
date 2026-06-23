@@ -1,0 +1,108 @@
+
+Host: https://api.zomato.com
+Server: envoy
+
+Host: https://cc2.zomato.com
+
+Host: https://elink.mailers.zomato.com
+Error: HTTPSConnectionPool(host='fallbackltut3.netcore.co.in', port=443): Max retries exceeded with url: /?ltutv3=3 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1020)')))
+
+Host: https://cert2.zomato.com
+Server: AmazonS3
+
+Host: https://cert3.zomato.com
+Server: AmazonS3
+
+Host: https://community.zomato.com
+Server: AkamaiGHost
+
+Host: https://accounts.zomato.com
+Server: envoy
+
+Host: https://engineering.zomato.com
+Server: AkamaiGHost
+
+Host: https://blog.zomato.com
+Server: AkamaiGHost
+
+Host: https://cc.zomato.com
+
+Host: https://delivery.mailers.zomato.com
+Server: Google Frontend
+
+Host: https://enterprise.zomato.com
+
+Host: https://apibeta.zomato.com
+Server: envoy
+
+Host: https://business-blog.zomato.com
+Server: AkamaiGHost
+
+Host: https://developers.zomato.com
+Server: AkamaiGHost
+
+Host: https://business.zomato.com
+Server: envoy
+
+Host: https://ccc.zomato.com
+Server: envoy
+
+Host: https://auth2.zomato.com
+Server: awselb/2.0
+
+Host: https://jumbo.zomato.com
+
+Host: https://link.zomato.com
+Server: cloudflare
+
+Host: https://maps.zomato.com
+Server: Apache
+
+Host: https://m.zomato.com
+Server: AkamaiGHost
+
+Host: https://nugget.zomato.com
+
+Host: https://mcp-server.zomato.com
+Server: uvicorn
+
+Host: http://mail.zomato.com
+Server: GSE
+
+Host: https://secretx.zomato.com
+Server: envoy
+
+Host: https://payments-preprod.zomato.com
+Server: AkamaiGHost
+
+Host: https://reviews.zomato.com
+Server: awselb/2.0
+
+Host: https://winecellar.zomato.com
+
+Host: https://url1121.zomato.com
+Error: HTTPSConnectionPool(host='url1121.zomato.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'url1121.zomato.com'. (_ssl.c:1020)")))
+
+Host: https://trackemail.zomato.com
+Error: HTTPSConnectionPool(host='trackemail.zomato.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'trackemail.zomato.com'. (_ssl.c:1020)")))
+
+Host: https://trackemail2.zomato.com
+Error: HTTPSConnectionPool(host='trackemail2.zomato.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'trackemail2.zomato.com'. (_ssl.c:1020)")))
+
+Host: https://send.zomato.com
+Server: envoy
+
+Host: https://zpay.zomato.com
+Server: AkamaiGHost
+
+Host: https://www.zomato.com
+Server: AkamaiGHost
+
+Host: https://upload.zomato.com
+Server: AkamaiGHost
+
+Host: https://zwstatic.zomato.com
+Server: AmazonS3
+
+Host: https://culture.zomato.com
+Server: AkamaiGHost

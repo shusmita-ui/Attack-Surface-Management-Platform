@@ -1,0 +1,153 @@
+
+========== api.zomato.com ==========
+Port 80 OPEN
+Port 443 OPEN
+
+========== cc2.zomato.com ==========
+Port 80 OPEN
+Port 443 OPEN
+
+========== elink.mailers.zomato.com ==========
+Port 80 OPEN
+Port 443 OPEN
+
+========== cert2.zomato.com ==========
+Port 80 OPEN
+Port 443 OPEN
+
+========== cert3.zomato.com ==========
+Port 80 OPEN
+Port 443 OPEN
+
+========== community.zomato.com ==========
+Port 80 OPEN
+Port 443 OPEN
+
+========== accounts.zomato.com ==========
+Port 80 OPEN
+Port 443 OPEN
+
+========== engineering.zomato.com ==========
+Port 80 OPEN
+Port 443 OPEN
+
+========== blog.zomato.com ==========
+Port 80 OPEN
+Port 443 OPEN
+
+========== cc.zomato.com ==========
+Port 80 OPEN
+Port 443 OPEN
+
+========== delivery.mailers.zomato.com ==========
+Port 80 OPEN
+Port 443 OPEN
+
+========== enterprise.zomato.com ==========
+Port 80 OPEN
+Port 443 OPEN
+
+========== apibeta.zomato.com ==========
+Port 80 OPEN
+Port 443 OPEN
+
+========== business-blog.zomato.com ==========
+Port 80 OPEN
+Port 443 OPEN
+
+========== developers.zomato.com ==========
+Port 80 OPEN
+Port 443 OPEN
+
+========== business.zomato.com ==========
+Port 80 OPEN
+Port 443 OPEN
+
+========== ccc.zomato.com ==========
+Port 80 OPEN
+Port 443 OPEN
+
+========== auth2.zomato.com ==========
+Port 80 OPEN
+Port 443 OPEN
+
+========== jumbo.zomato.com ==========
+Port 80 OPEN
+Port 443 OPEN
+
+========== link.zomato.com ==========
+Port 80 OPEN
+Port 443 OPEN
+Port 8080 OPEN
+Port 8443 OPEN
+
+========== maps.zomato.com ==========
+Port 80 OPEN
+Port 443 OPEN
+
+========== m.zomato.com ==========
+Port 80 OPEN
+Port 443 OPEN
+
+========== nugget.zomato.com ==========
+Port 80 OPEN
+Port 443 OPEN
+
+========== mcp-server.zomato.com ==========
+Port 80 OPEN
+Port 443 OPEN
+
+========== mail.zomato.com ==========
+Port 80 OPEN
+Port 443 OPEN
+
+========== secretx.zomato.com ==========
+Port 80 OPEN
+Port 443 OPEN
+
+========== payments-preprod.zomato.com ==========
+Port 80 OPEN
+Port 443 OPEN
+
+========== reviews.zomato.com ==========
+Port 443 OPEN
+
+========== winecellar.zomato.com ==========
+Port 80 OPEN
+Port 443 OPEN
+
+========== url1121.zomato.com ==========
+Port 80 OPEN
+Port 443 OPEN
+
+========== trackemail.zomato.com ==========
+Port 80 OPEN
+Port 443 OPEN
+
+========== trackemail2.zomato.com ==========
+Port 80 OPEN
+Port 443 OPEN
+
+========== send.zomato.com ==========
+Port 80 OPEN
+Port 443 OPEN
+
+========== zpay.zomato.com ==========
+Port 80 OPEN
+Port 443 OPEN
+
+========== www.zomato.com ==========
+Port 80 OPEN
+Port 443 OPEN
+
+========== upload.zomato.com ==========
+Port 80 OPEN
+Port 443 OPEN
+
+========== zwstatic.zomato.com ==========
+Port 80 OPEN
+Port 443 OPEN
+
+========== culture.zomato.com ==========
+Port 80 OPEN
+Port 443 OPEN

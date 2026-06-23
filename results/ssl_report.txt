@@ -1,0 +1,148 @@
+
+Host: api.zomato.com
+Issuer: DigiCert Inc
+Expiry: Dec 22 23:59:59 2026 GMT
+
+Host: cc2.zomato.com
+Issuer: DigiCert Inc
+Expiry: Dec  1 23:59:59 2026 GMT
+
+Host: elink.mailers.zomato.com
+Issuer: Let's Encrypt
+Expiry: Aug 11 08:30:09 2026 GMT
+
+Host: cert2.zomato.com
+Issuer: Amazon
+Expiry: Oct 25 23:59:59 2026 GMT
+
+Host: cert3.zomato.com
+Issuer: Amazon
+Expiry: Nov 28 23:59:59 2026 GMT
+
+Host: community.zomato.com
+Issuer: Amazon
+Expiry: Dec 19 23:59:59 2026 GMT
+
+Host: accounts.zomato.com
+Issuer: DigiCert Inc
+Expiry: Dec 22 23:59:59 2026 GMT
+
+Host: engineering.zomato.com
+Issuer: DigiCert Inc
+Expiry: Dec  1 23:59:59 2026 GMT
+
+Host: blog.zomato.com
+Issuer: DigiCert Inc
+Expiry: Dec  1 23:59:59 2026 GMT
+
+Host: cc.zomato.com
+Issuer: DigiCert Inc
+Expiry: Dec  1 23:59:59 2026 GMT
+
+Host: delivery.mailers.zomato.com
+Issuer: Google Trust Services
+Expiry: Aug 14 14:53:40 2026 GMT
+
+Host: enterprise.zomato.com
+Issuer: DigiCert Inc
+Expiry: Dec  1 23:59:59 2026 GMT
+
+Host: apibeta.zomato.com
+Issuer: DigiCert Inc
+Expiry: Dec 22 23:59:59 2026 GMT
+
+Host: business-blog.zomato.com
+Issuer: DigiCert Inc
+Expiry: Dec  1 23:59:59 2026 GMT
+
+Host: developers.zomato.com
+Issuer: DigiCert Inc
+Expiry: Dec  1 23:59:59 2026 GMT
+
+Host: business.zomato.com
+Issuer: DigiCert Inc
+Expiry: Dec  1 23:59:59 2026 GMT
+
+Host: ccc.zomato.com
+Issuer: DigiCert Inc
+Expiry: Dec  1 23:59:59 2026 GMT
+
+Host: auth2.zomato.com
+Issuer: DigiCert Inc
+Expiry: Dec  1 23:59:59 2026 GMT
+
+Host: jumbo.zomato.com
+Issuer: DigiCert Inc
+Expiry: Nov  4 23:59:59 2026 GMT
+
+Host: link.zomato.com
+Issuer: Let's Encrypt
+Expiry: Aug  2 03:03:09 2026 GMT
+
+Host: maps.zomato.com
+Issuer: DigiCert Inc
+Expiry: Dec  1 23:59:59 2026 GMT
+
+Host: m.zomato.com
+Issuer: DigiCert Inc
+Expiry: Dec  1 23:59:59 2026 GMT
+
+Host: nugget.zomato.com
+Issuer: Amazon
+Expiry: Dec 19 23:59:59 2026 GMT
+
+Host: mcp-server.zomato.com
+Issuer: DigiCert Inc
+Expiry: Dec  1 23:59:59 2026 GMT
+
+Host: mail.zomato.com
+Error: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1020)
+
+Host: secretx.zomato.com
+Issuer: DigiCert Inc
+Expiry: Dec  1 23:59:59 2026 GMT
+
+Host: payments-preprod.zomato.com
+Issuer: DigiCert Inc
+Expiry: Dec  1 23:59:59 2026 GMT
+
+Host: reviews.zomato.com
+Issuer: DigiCert Inc
+Expiry: Dec  1 23:59:59 2026 GMT
+
+Host: winecellar.zomato.com
+Issuer: DigiCert Inc
+Expiry: Jun 27 23:59:59 2026 GMT
+
+Host: url1121.zomato.com
+Error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'url1121.zomato.com'. (_ssl.c:1020)
+
+Host: trackemail.zomato.com
+Error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'trackemail.zomato.com'. (_ssl.c:1020)
+
+Host: trackemail2.zomato.com
+Error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'trackemail2.zomato.com'. (_ssl.c:1020)
+
+Host: send.zomato.com
+Issuer: DigiCert Inc
+Expiry: Dec  1 23:59:59 2026 GMT
+
+Host: zpay.zomato.com
+Issuer: DigiCert Inc
+Expiry: Dec  1 23:59:59 2026 GMT
+
+Host: www.zomato.com
+Issuer: DigiCert Inc
+Expiry: Dec  1 23:59:59 2026 GMT
+
+Host: upload.zomato.com
+Issuer: DigiCert Inc
+Expiry: Dec  1 23:59:59 2026 GMT
+
+Host: zwstatic.zomato.com
+Issuer: DigiCert Inc
+Expiry: Dec  1 23:59:59 2026 GMT
+
+Host: culture.zomato.com
+Issuer: DigiCert Inc
+Expiry: Dec  1 23:59:59 2026 GMT

@@ -1,0 +1,210 @@
+
+Host: https://api.zomato.com
+Missing Headers:
+- Content-Security-Policy
+- X-Frame-Options
+- X-Content-Type-Options
+
+Host: https://cc2.zomato.com
+Missing Headers:
+- Content-Security-Policy
+- X-Frame-Options
+- X-Content-Type-Options
+
+Host: https://elink.mailers.zomato.com
+Error: HTTPSConnectionPool(host='fallbackltut3.netcore.co.in', port=443): Max retries exceeded with url: /?ltutv3=3 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1020)')))
+
+Host: https://cert2.zomato.com
+Missing Headers:
+- Content-Security-Policy
+- Strict-Transport-Security
+- X-Frame-Options
+- X-Content-Type-Options
+
+Host: https://cert3.zomato.com
+Missing Headers:
+- Content-Security-Policy
+- Strict-Transport-Security
+- X-Frame-Options
+- X-Content-Type-Options
+
+Host: https://community.zomato.com
+Missing Headers:
+- Content-Security-Policy
+- X-Frame-Options
+- X-Content-Type-Options
+
+Host: https://accounts.zomato.com
+Missing Headers:
+- X-Frame-Options
+- X-Content-Type-Options
+
+Host: https://engineering.zomato.com
+Missing Headers:
+- Content-Security-Policy
+- X-Frame-Options
+- X-Content-Type-Options
+
+Host: https://blog.zomato.com
+Missing Headers:
+- Content-Security-Policy
+- X-Frame-Options
+- X-Content-Type-Options
+
+Host: https://cc.zomato.com
+Missing Headers:
+- Content-Security-Policy
+- X-Frame-Options
+- X-Content-Type-Options
+
+Host: https://delivery.mailers.zomato.com
+All Security Headers Present
+
+Host: https://enterprise.zomato.com
+Missing Headers:
+- Content-Security-Policy
+- Strict-Transport-Security
+- X-Frame-Options
+- X-Content-Type-Options
+
+Host: https://apibeta.zomato.com
+Missing Headers:
+- Content-Security-Policy
+- X-Frame-Options
+- X-Content-Type-Options
+
+Host: https://business-blog.zomato.com
+Missing Headers:
+- Content-Security-Policy
+- X-Frame-Options
+- X-Content-Type-Options
+
+Host: https://developers.zomato.com
+Missing Headers:
+- Content-Security-Policy
+- X-Frame-Options
+- X-Content-Type-Options
+
+Host: https://business.zomato.com
+Missing Headers:
+- X-Frame-Options
+
+Host: https://ccc.zomato.com
+Missing Headers:
+- X-Frame-Options
+
+Host: https://auth2.zomato.com
+Missing Headers:
+- Content-Security-Policy
+- X-Frame-Options
+- X-Content-Type-Options
+
+Host: https://jumbo.zomato.com
+Missing Headers:
+- Content-Security-Policy
+- Strict-Transport-Security
+- X-Frame-Options
+- X-Content-Type-Options
+
+Host: https://link.zomato.com
+Missing Headers:
+- Content-Security-Policy
+- Strict-Transport-Security
+- X-Content-Type-Options
+
+Host: https://maps.zomato.com
+Missing Headers:
+- Content-Security-Policy
+- X-Frame-Options
+- X-Content-Type-Options
+
+Host: https://m.zomato.com
+Missing Headers:
+- Content-Security-Policy
+- X-Frame-Options
+- X-Content-Type-Options
+
+Host: https://nugget.zomato.com
+Missing Headers:
+- Content-Security-Policy
+- X-Frame-Options
+- X-Content-Type-Options
+
+Host: https://mcp-server.zomato.com
+Missing Headers:
+- Content-Security-Policy
+- X-Frame-Options
+- X-Content-Type-Options
+
+Host: http://mail.zomato.com
+Missing Headers:
+- Strict-Transport-Security
+
+Host: https://secretx.zomato.com
+Missing Headers:
+- Content-Security-Policy
+- X-Frame-Options
+- X-Content-Type-Options
+
+Host: https://payments-preprod.zomato.com
+Missing Headers:
+- Content-Security-Policy
+- X-Frame-Options
+- X-Content-Type-Options
+
+Host: https://reviews.zomato.com
+Missing Headers:
+- Content-Security-Policy
+- X-Frame-Options
+- X-Content-Type-Options
+
+Host: https://winecellar.zomato.com
+Missing Headers:
+- Content-Security-Policy
+- Strict-Transport-Security
+- X-Frame-Options
+- X-Content-Type-Options
+
+Host: https://url1121.zomato.com
+Error: HTTPSConnectionPool(host='url1121.zomato.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'url1121.zomato.com'. (_ssl.c:1020)")))
+
+Host: https://trackemail.zomato.com
+Error: HTTPSConnectionPool(host='trackemail.zomato.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'trackemail.zomato.com'. (_ssl.c:1020)")))
+
+Host: https://trackemail2.zomato.com
+Error: HTTPSConnectionPool(host='trackemail2.zomato.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'trackemail2.zomato.com'. (_ssl.c:1020)")))
+
+Host: https://send.zomato.com
+Missing Headers:
+- Strict-Transport-Security
+- X-Frame-Options
+
+Host: https://zpay.zomato.com
+Missing Headers:
+- Content-Security-Policy
+- X-Frame-Options
+- X-Content-Type-Options
+
+Host: https://www.zomato.com
+Missing Headers:
+- Content-Security-Policy
+- X-Frame-Options
+- X-Content-Type-Options
+
+Host: https://upload.zomato.com
+Missing Headers:
+- Content-Security-Policy
+- X-Frame-Options
+- X-Content-Type-Options
+
+Host: https://zwstatic.zomato.com
+Missing Headers:
+- Content-Security-Policy
+- X-Frame-Options
+- X-Content-Type-Options
+
+Host: https://culture.zomato.com
+Missing Headers:
+- Content-Security-Policy
+- X-Frame-Options
+- X-Content-Type-Options
